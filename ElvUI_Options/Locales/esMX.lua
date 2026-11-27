@@ -36,7 +36,7 @@ L["*%s|r|cFFffffff below.  Made with|r |cFFff75dd<3|r |cFFffffffby the Tukui Com
 L["24-Hour Time"] = "Tiempo de 24 horas"
 L["Abbreviate Enchants"] = "Abreviar encantamientos"
 L["Abbreviate Name"] = "Abreviar el Nombre"
-L["Abbreviation threshold (in seconds)."] = true
+L["Abbreviation threshold (in seconds)."] = "Umbral de abreviación (en segundos)."
 L["Above"] = "Encima"
 L["Above Chat"] = "Arriba Chat"
 L["Above Chat (Inside)"] = "Arriba Chat (Interior)"
